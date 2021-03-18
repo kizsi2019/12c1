@@ -1,7 +1,9 @@
 -- A feladatok megoldására elkészített SQL parancsokat illessze be a feladat sorszáma után!
 
 -- 8. feladat:
-CREATE DATABASE 
+CREATE DATABASE formula1
+DEFAULT CHARSET=utf8
+COLLATE utf8_hungarian_ci; 
 
 
 -- 10. feladat:
