@@ -1,15 +1,12 @@
 #panelek img {
   height: 40px;
-    margin: 2px;
 }
 
 label {
   padding: 12px 12px 12px 0;
   display: inline-block;
 }
-.fk{
-    font-weight: bold;
-}
+
 input[type=number] {
   width: 100%;
   padding: 12px;
