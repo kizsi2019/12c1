@@ -88,7 +88,14 @@ namespace sudokuCLI
             Console.WriteLine("7 feladat: A feladvány kirajzolva:");
             kivalasztottFeladvany.Kirajzol();
 
-
+            string fajlNev = string.Format("sudoku{0}.txt", meret);
+            StreamWriter sw = new StreamWriter(fajlNev);
+            foreach (var f in nElemuFeladvany)
+            {
+                sw.WriteLine(f.Kezdo);
+            }
+            Console.WriteLine("8. feladat: {0} állomány {1} darab feladvánnyal létrehozva", fajlNev, nElemuFeladvany.Count);
+            sw.Close();
         }
     }
 }
