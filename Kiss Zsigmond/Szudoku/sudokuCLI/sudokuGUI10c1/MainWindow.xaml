@@ -1,0 +1,20 @@
+﻿<Window x:Class="sudokuGUI10c1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sudokuGUI10c1"
+        mc:Ignorable="d"
+        Title="Sudoku-ellenőrző" MinHeight="210" MaxHeight="210"  MinWidth="540" MaxWidth="540">
+    <Grid>
+        <Label Content="Az új feladvány mérete:" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button Name="BtnMinusz" Content="-" HorizontalAlignment="Left" Height="18" Margin="151,13,0,0" VerticalAlignment="Top" Width="21" Click="BtnMinusz_Click"/>
+        <Button Name="BtnPlusz" Content="+" HorizontalAlignment="Left" Height="18" Margin="215,13,0,0" VerticalAlignment="Top" Width="21" Click="BtnPlusz_Click"/>
+        <TextBox Name="TxtMeret" HorizontalAlignment="Left" Height="18" Margin="184,13,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="19" IsReadOnly="True"/>
+        <Label Content="Kezdő állapot:" HorizontalAlignment="Left" Height="23" Margin="26,70,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox Name="TxtKezdoAllapot" HorizontalAlignment="Left" Height="22" Margin="26,111,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="459"/>
+        <Label Name="LblHossz" Content="Hossz: 0" HorizontalAlignment="Left" Height="26" Margin="26,148,0,0" VerticalAlignment="Top" Width="103"/>
+        <Button Name="BtnEllenorzes" Content="Ellenőrzés" HorizontalAlignment="Left" Height="20" Margin="415,148,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="2.033,0.517"/>
+
+    </Grid>
+</Window>
