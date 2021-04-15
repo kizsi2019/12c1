@@ -35,6 +35,7 @@ namespace NFL
                     legtobbeteladott.Add(j.FormazottNev(j.Név));
                 }
             }
+            //
             legtobbeteladott.Sort();
             File.WriteAllLines("legtobbeteladott.txt", legtobbeteladott);
         }
