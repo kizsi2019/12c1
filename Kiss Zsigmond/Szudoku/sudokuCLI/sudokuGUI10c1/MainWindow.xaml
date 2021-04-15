@@ -12,9 +12,9 @@
         <Button Name="BtnPlusz" Content="+" HorizontalAlignment="Left" Height="18" Margin="215,13,0,0" VerticalAlignment="Top" Width="21" Click="BtnPlusz_Click"/>
         <TextBox Name="TxtMeret" HorizontalAlignment="Left" Height="18" Margin="184,13,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="19" IsReadOnly="True"/>
         <Label Content="Kezdő állapot:" HorizontalAlignment="Left" Height="23" Margin="26,70,0,0" VerticalAlignment="Top" Width="110"/>
-        <TextBox Name="TxtKezdoAllapot" HorizontalAlignment="Left" Height="22" Margin="26,111,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="459"/>
+        <TextBox Name="TxtKezdoAllapot" HorizontalAlignment="Left" Height="22" Margin="26,111,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="459" TextChanged="TxtKezdoAllapot_TextChanged"/>
         <Label Name="LblHossz" Content="Hossz: 0" HorizontalAlignment="Left" Height="26" Margin="26,148,0,0" VerticalAlignment="Top" Width="103"/>
-        <Button Name="BtnEllenorzes" Content="Ellenőrzés" HorizontalAlignment="Left" Height="20" Margin="415,148,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="2.033,0.517"/>
+        <Button Name="BtnEllenorzes" Content="Ellenőrzés" HorizontalAlignment="Left" Height="20" Margin="415,148,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="2.033,0.517" Click="BtnEllenorzes_Click"/>
 
     </Grid>
 </Window>

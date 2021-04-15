@@ -42,5 +42,28 @@ namespace sudokuGUI10c1
                 TxtMeret.Text = (meret + 1).ToString();
             }
         }
+
+        private void TxtKezdoAllapot_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            LblHossz.Content = string.Format("Hossz: {0}", TxtKezdoAllapot.Text.Length);
+        }
+
+        private void BtnEllenorzes_Click(object sender, RoutedEventArgs e)
+        {
+            int meret = int.Parse(TxtMeret.Text);
+            int hossz = TxtKezdoAllapot.Text.Length;
+            if ( meret * meret == hossz)
+            {
+                MessageBox.Show("A feladvány megfelelő hosszúságú!");
+            }
+            else if(meret * meret > hossz)
+            {
+                MessageBox.Show(string.Format("A feladvány túl rövid: kell még {0} számjegy!", meret * meret - hossz));
+            }
+            else
+            {
+                MessageBox.Show(string.Format("A feladvány túl hosszú: törlendő {0} számjegy!", hossz - meret * meret ));
+            }
+        }
     }
 }
