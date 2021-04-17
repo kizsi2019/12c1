@@ -1,0 +1,14 @@
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\ConsoleApp1\bin\Debug\netcoreapp3.1\feladvanyok.txt
