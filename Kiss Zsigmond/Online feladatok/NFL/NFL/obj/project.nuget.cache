@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bucu3/o1FGj+Zg9E6VqHXyoUDGaHaz43/HVCdIBymyzkovIZFdvrZdAajZjKWH3RCMZrggoGBYw6Afh7lbtDVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kizsi\\OneDrive\\Asztali gép\\Katonaa\\12c1\\12c1\\Kiss Zsigmond\\Online feladatok\\NFL\\NFL\\NFL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kizsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
