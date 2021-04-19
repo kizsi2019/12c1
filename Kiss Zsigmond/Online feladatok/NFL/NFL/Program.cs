@@ -38,6 +38,42 @@ namespace NFL
             
             legtobbeteladott.Sort();
             File.WriteAllLines("legtobbeteladott.txt", legtobbeteladott);
+
+            int legjobb = 0;
+            for (int i = 1; i < jatékosok.Count; i++)
+            {
+                if (jatékosok[i].TDk > jatékosok[legjobb].TDk)
+                {
+                    legjobb = i;
+                }
+            }
+
+            Console.WriteLine("9. feladat: A legtöbb TD-t szerző játékos:");
+            Console.WriteLine("\t Neve: {0}", jatékosok[legjobb].Név);
+            Console.WriteLine("\t TD-k száma: {0}", jatékosok[legjobb].TDk);
+            Console.WriteLine("\t Eladott labdák száma: {0}", jatékosok[legjobb].Eladott);
+
+            Dictionary<string, int> stat = new Dictionary<string, int>();
+            foreach (var j in jatékosok)
+            {
+                if (stat.ContainsKey(j.Egyetem))
+                {
+                    stat[j.Egyetem]++;
+                }
+                else
+                {
+                    stat.Add(j.Egyetem, 1);
+                }
+            }
+            Console.WriteLine("10. feladat: Legsikeresebb egyetemek:");
+            foreach (var s in stat)
+            {
+                if (s.Value > 1)
+                {
+                    Console.WriteLine("\t {0} - {1}", s.Key, s.Value);
+                }
+            }
+
         }
     }
 }
