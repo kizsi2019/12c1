@@ -1,0 +1,14 @@
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.exe
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL_iranyitok.txt
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.deps.json
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.json
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.dev.json
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.dll
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.csprojAssemblyReference.cache
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfoInputs.cache
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfo.cs
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.csproj.CoreCompileInputs.cache
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.dll
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\balog\Desktop\suli\proggyak\GIT\12c1\Balog Dániel\Online feladatok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.genruntimeconfig.cache
