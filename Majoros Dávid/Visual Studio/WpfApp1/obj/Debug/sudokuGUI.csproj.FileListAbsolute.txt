@@ -1,0 +1,15 @@
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\sudokuGUI.csprojAssemblyReference.cache
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\App.g.cs
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\MainWindow.baml
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\sudokuGUI.csproj.GenerateResource.cache
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\sudokuGUI.csproj.CoreCompileInputs.cache
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Dolgok\Iskolai baszás\12C\Programozás gyakorlat\Git\12c1\12c1\Majoros Dávid\Visual Studio\WpfApp1\obj\Debug\WpfApp1.pdb

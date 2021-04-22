@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\bin\Debug\IranyitoMutato.exe.config
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\bin\Debug\IranyitoMutato.exe
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\bin\Debug\IranyitoMutato.pdb
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato.csprojAssemblyReference.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\App.g.cs
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato_MarkupCompile.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato_MarkupCompile.lref
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato.g.resources
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato.Properties.Resources.resources
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato.csproj.GenerateResource.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato.exe
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\IranyitoMutato\obj\Debug\IranyitoMutato.pdb

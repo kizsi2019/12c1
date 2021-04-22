@@ -1,0 +1,15 @@
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\bin\Debug\sudokuGUI10c1.exe.config
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\bin\Debug\sudokuGUI10c1.exe
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\bin\Debug\sudokuGUI10c1.pdb
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1.csprojAssemblyReference.cache
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\MainWindow.g.cs
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\App.g.cs
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1_MarkupCompile.cache
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1_MarkupCompile.lref
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\MainWindow.baml
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1.g.resources
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1.Properties.Resources.resources
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1.csproj.GenerateResource.cache
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1.csproj.CoreCompileInputs.cache
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1.exe
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c1\12c1\Kiss Zsigmond\Szudoku\sudokuCLI\sudokuGUI10c1\obj\Debug\sudokuGUI10c1.pdb
