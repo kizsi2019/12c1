@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\NFL\\NFL.csproj": {}
+    "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\iranyitomutato\\iranyitomutato.csproj": {}
   },
   "projects": {
-    "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\NFL\\NFL.csproj": {
+    "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\iranyitomutato\\iranyitomutato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\NFL\\NFL.csproj",
-        "projectName": "NFL",
-        "projectPath": "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\NFL\\NFL.csproj",
+        "projectUniqueName": "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\iranyitomutato\\iranyitomutato.csproj",
+        "projectName": "iranyitomutato",
+        "projectPath": "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\iranyitomutato\\iranyitomutato.csproj",
         "packagesPath": "C:\\Users\\Dávid\\.nuget\\packages\\",
-        "outputPath": "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\NFL\\obj\\",
+        "outputPath": "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\iranyitomutato\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dávid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
