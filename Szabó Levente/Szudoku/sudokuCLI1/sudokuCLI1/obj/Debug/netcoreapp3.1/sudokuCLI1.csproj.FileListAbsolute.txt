@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\bin\Debug\netcoreapp3.1\sudokuCLI1.exe
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\bin\Debug\netcoreapp3.1\sudokuCLI1.deps.json
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\bin\Debug\netcoreapp3.1\sudokuCLI1.runtimeconfig.json
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\bin\Debug\netcoreapp3.1\sudokuCLI1.runtimeconfig.dev.json
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\bin\Debug\netcoreapp3.1\sudokuCLI1.dll
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\bin\Debug\netcoreapp3.1\sudokuCLI1.pdb
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\obj\Debug\netcoreapp3.1\sudokuCLI1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\obj\Debug\netcoreapp3.1\sudokuCLI1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\obj\Debug\netcoreapp3.1\sudokuCLI1.AssemblyInfo.cs
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\obj\Debug\netcoreapp3.1\sudokuCLI1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\obj\Debug\netcoreapp3.1\sudokuCLI1.dll
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\obj\Debug\netcoreapp3.1\sudokuCLI1.pdb
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\obj\Debug\netcoreapp3.1\sudokuCLI1.genruntimeconfig.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\Szudoku\sudokuCLI1\sudokuCLI1\bin\Debug\netcoreapp3.1\feladvanyok.txt
