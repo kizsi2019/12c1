@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzudokoCLI", "SzudokoCLI.csproj", "{2302D232-30D4-4C7C-A052-6E6D91A89E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudokuGUI", "..\WpfApp1\sudokuGUI.csproj", "{94D9E454-9E07-4E91-AB90-1A187AA479AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2302D232-30D4-4C7C-A052-6E6D91A89E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2302D232-30D4-4C7C-A052-6E6D91A89E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2302D232-30D4-4C7C-A052-6E6D91A89E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2302D232-30D4-4C7C-A052-6E6D91A89E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D9E454-9E07-4E91-AB90-1A187AA479AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D9E454-9E07-4E91-AB90-1A187AA479AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D9E454-9E07-4E91-AB90-1A187AA479AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D9E454-9E07-4E91-AB90-1A187AA479AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9549210-0B25-43F3-8599-D21F0F0B173A}
+	EndGlobalSection
+EndGlobal

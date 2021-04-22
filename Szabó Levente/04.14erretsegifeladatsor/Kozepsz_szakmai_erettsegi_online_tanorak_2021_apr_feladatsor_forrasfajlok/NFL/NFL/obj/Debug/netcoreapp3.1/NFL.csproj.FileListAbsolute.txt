@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.exe
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL_iranyitok.txt
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.deps.json
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.json
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.dev.json
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.dll
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfo.cs
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.dll
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\user\Desktop\programozás gyakorlat\12c1\Szabó Levente\04.14\Kozepsz_szakmai_erettsegi_online_tanorak_2021_apr_feladatsor_forrasfajlok\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.genruntimeconfig.cache
