@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5tnVSihNPkS/IT8sqO8y0XpP/mNAP+F+0Ctjc3ZbZZ6MBfcJkF8dvajek6cL2m6KqQoduelac6bbj1KHmqGcvw==",
+  "dgSpecHash": "TJZiy0DE/9n5wfbGygNFxG4i7hvxAB8aJWJ1TcI5c2DtkZ1PMTwB4H3WLiGg98X9w1H/CBKQUTmEwu2Q7PKUZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balog\\Desktop\\suli\\proggyak\\GIT\\12c1\\Balog Dániel\\Online feladatok\\NFL\\NFL\\NFL.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Dolgok\\Iskolai baszás\\12C\\Programozás gyakorlat\\Git\\12c1\\12c1\\Majoros Dávid\\Online\\források\\2. Programozás\\NFL\\NFL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dávid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
