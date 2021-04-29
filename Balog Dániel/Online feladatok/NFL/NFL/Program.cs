@@ -8,27 +8,26 @@ namespace NFL
     {
         static void Main(string[] args)
         {
-           List<Jatekos> Játékosok = new List<Jatekos>();
+            List<Jatekos> játékosok = new List<Jatekos>();
             foreach (var sor in File.ReadAllLines("NFL_iranyitok.txt"))
             {
-                Játékosok.Add(new Jatekos(sor));
+                játékosok.Add(new Jatekos(sor));
             }
-            Console.WriteLine("5. fealadat: A statisztikában {0} irányító szerepel", Játékosok.Count);
+            Console.WriteLine("5. feladat: A statisztikában {0} irányító szerepel", játékosok.Count);
 
-
-            Console.WriteLine("7. feladat: A legjobb irányítók:");
-            foreach (var j in Játékosok)
+            Console.WriteLine("7. feladat: A legjobb irányítók");
+            foreach (var j in játékosok)
             {
-                if (j.Mutató >= 100 && j.YardMeterben >= 4000)
+                if (j.Mutató >=100 && j.YardMeterben >= 4000)
                 {
-                    Console.WriteLine("\t {0} (irányító mutató: {1}. Passzok: {2}m)", j.FormazottNev(j.Név), j.Mutató, j.YardMeterben);
+                    Console.WriteLine("\t {0} (iránytómutató: {1} Passzok {2}m)", j.FormazottNev(j.Név), j.Mutató, j.YardMeterben);
                 }
             }
 
             Console.Write("8. feladat: Eladott labdák száma:");
             int eladott = int.Parse(Console.ReadLine());
             List<string> legtobbeteladott = new List<string>();
-            foreach (var j in Játékosok)
+            foreach (var j in játékosok)
             {
                 if (j.Eladott > eladott)
                 {
@@ -36,7 +35,7 @@ namespace NFL
                 }
             }
             legtobbeteladott.Sort();
-            File.WriteAllLines("legtobbeteladott.txt", legtobbeteladott);
+            File.WriteAllLines("legtobbetaldott.txt", legtobbeteladott);
         }
     }
 }
